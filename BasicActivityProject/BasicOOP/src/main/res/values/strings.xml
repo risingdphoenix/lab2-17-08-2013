@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BasicOOP</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="classes">
+        <item>Novice</item>
+        <item>Warrior</item>
+        <item>Ninja</item>
+        <item>Wizard</item>
+    </string-array>
+    <string-array name="novice_skills">
+        <item>First Aid</item>
+        <item>Dash</item>
+        <item>Throw Stone</item>
+        <item>Steal</item>
+        <item>Flee</item>
+    </string-array>
+    <string-array name="warrior_skills">
+        <item>Guard</item>
+        <item>Cover</item>
+        <item>Regenerate</item>
+        <item>Cure</item>
+        <item>Bash</item>
+        <item>Charge</item>
+        <item>Weapon Break</item>
+        <item>Armor Break</item>
+    </string-array>
+    <string-array name="ninja_skills">
+        <item>Double Slash</item>
+        <item>Dodge</item>
+        <item>Haste</item>
+        <item>Throw Weapon</item>
+        <item>Back Stab</item>
+        <item>OmniSlash</item>
+        <item>Poison</item>
+        <item>Blind</item>
+    </string-array>
+    <string-array name="wizard_skills">
+        <item>Fire</item>
+        <item>Ice</item>
+        <item>Thunder</item>
+        <item>Flare</item>
+        <item>Slow</item>
+        <item>Stop</item>
+        <item>Petrify</item>
+        <item>Silence</item>
+        <item>Doom</item>
+    </string-array>
+
+    <string name="title_activity_skills">Skills</string>
+
+</resources>
